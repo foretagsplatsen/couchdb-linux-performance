@@ -1,3 +1,10 @@
+<details>
+<summary>Links to compliance and security tools</summary>
+
+- [x] non-production code only
+
+</details>
+
 # Linux tuning for better CouchDB performance
 
 ## Filesystem tuning
